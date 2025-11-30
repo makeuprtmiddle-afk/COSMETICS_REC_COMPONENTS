@@ -92,5 +92,5 @@ debug_mask -> 実際の写真で赤みと判断された場所をマスクした
 <br>
 
 <h2>参考資料</h2>
-・[マニュアル]()<br>
+・[マニュアル](https://github.com/makeuprtmiddle-afk/COSMETICS_REC_COMPONENTS/blob/main/manual.pdf)<br>
 ・[使用した肌の画像](https://github.com/makeuprtmiddle-afk/COSMETICS_REC_COMPONENTS/tree/main/Images)<br>
